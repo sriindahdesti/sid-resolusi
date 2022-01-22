@@ -2,3 +2,5 @@ SID RESOLUSI
 - Belajar Laravel
 - Belajar CodeIgniter
 - Belajar Back end
+- Memperdalam front end
+- Belajar PHP
